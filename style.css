@@ -1,7 +1,16 @@
 .website_title{
     padding: 60px;
-    background-color:#F25B8A;
+    background-color:#FC94AF;
     color:white;
     text-align: center;
     font-size:30px;
+}
+
+.title2{
+    font-size:25px;
+    font-weight:bold;
+}
+
+.list1{
+    font-size:25px
 }
