@@ -14,3 +14,16 @@
 .list1{
     font-size:25px
 }
+
+.recipe_title{
+    padding: 10px;
+    background-color:#FC94AF;
+    color:white;
+    text-align: center;
+    font-size:30px;
+}
+
+.image{
+   max-width:100%;
+   height: auto;
+}
